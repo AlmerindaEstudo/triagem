@@ -7,4 +7,6 @@ Este é um projeto simples feito por uma estudante de **Sistemas de Informação
 1. Clone o repositório:
 ```bash
 git clone https://github.com/AlmerindaEstudo/triagem.git
-cd triagem
+chmod +x run.sh
+./run.sh
+
